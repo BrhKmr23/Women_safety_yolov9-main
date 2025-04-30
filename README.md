@@ -26,7 +26,7 @@ Ensure that the following dependencies are installed:
 
 1. Clone the repository:
    ```bash
-   git clone [[https://gitlab.com/yourusername/women-safety-yolov9.git]()](https://github.com/BrhKmr23/Women_safety_yolov9-main.git)
+   git clone https://github.com/BrhKmr23/Women_safety_yolov9-main
    cd women-safety-yolov9
    ```
 2. Install the required dependencies:
