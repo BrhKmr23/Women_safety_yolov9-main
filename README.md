@@ -26,7 +26,7 @@ Ensure that the following dependencies are installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://gitlab.com/yourusername/women-safety-yolov9.git
+   git clone [[https://gitlab.com/yourusername/women-safety-yolov9.git]()](https://github.com/BrhKmr23/Women_safety_yolov9-main.git)
    cd women-safety-yolov9
    ```
 2. Install the required dependencies:
@@ -112,6 +112,8 @@ The graph below shows the true vs. predicted values during evaluation:
 Dharunraagav
 
 [GitLab Profile](https://gitlab.com/dharunraagav)
+
+Bharath Kumar
 
 
 
